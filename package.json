@@ -1,0 +1,20 @@
+{
+    "title": "Vengeful Syndicate",
+    "name": "vengeful-syndicate",
+    "description": "Vengeful Syndicate Theme for Brackets.",
+    "version": "1.0.0",
+    "author": "nostalgist92 (https://github.com/Nostalgist92)",
+    "homepage": " ",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "license": "",
+    "engines": {
+        "brackets": ">=0.42.0"
+    },
+    "theme": {
+        "file": "vengeful-syndicate.css",
+        "dark": true
+    }
+}
