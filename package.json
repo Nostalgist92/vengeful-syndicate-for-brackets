@@ -1,13 +1,13 @@
 {
-    "title": "Vengeful Syndicate",
     "name": "vengeful-syndicate",
+    "title": "Vengeful Syndicate",
     "description": "Vengeful Syndicate Theme for Brackets.",
     "version": "1.0.0",
-    "author": "nostalgist92 (https://github.com/Nostalgist92)",
-    "homepage": " ",
+    "author": "Nozza (https://github.com/Nostalgist92)",
+    "homepage": "https://github.com/Nostalgist92/vengeful-syndicate-for-brackets",
     "repository": {
         "type": "git",
-        "url": ""
+        "url": "git@github.com/Nostalgist92/vengeful-syndicate-for-brackets.git"
     },
     "license": "",
     "engines": {
